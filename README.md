@@ -1,1 +1,1 @@
-# Maratona-02
+Exercícios do Uri resolvidos em Java
